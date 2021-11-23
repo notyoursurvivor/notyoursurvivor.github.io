@@ -3,15 +3,15 @@ baseurl: /notyoursurvivor
 
 # Site settings
 title: Not Your Survivor
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+email: notyoursurvivor@gmail.com
+description: "Not Your Survivor offers a candid exploration of the effects of family sexual abuse, and a road map for how to support loved ones who've been affected by family sexual abuse."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Alex Robertson
   pic: 1
-  position: Lead Designer
+  position: Founder, Creative Director
   social:
     - title: twitter
       url: #
@@ -20,45 +20,20 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
+  - title: YouTube
+    url: 
+  - title: Instagram
     url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+  - title: SoundCloud
+    url: 
+
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Seattle, WA
 
 # Build settings
 markdown: kramdown
