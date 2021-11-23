@@ -7,5 +7,5 @@ color:
 
 # Font Families
 font:
-  primary: 'Lato, "Lato",Lato,Lato,sans-serif'
-  secondary: '"Lato", "Lato", Lato,Lato,sans-serif'
+  primary: 'Lato, "Lato",Lato,Lato,lato'
+  secondary: '"Lato", "Lato", Lato,Lato,lato'
