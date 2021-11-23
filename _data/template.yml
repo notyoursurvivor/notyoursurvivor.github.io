@@ -7,5 +7,5 @@ color:
 
 # Font Families
 font:
-  primary: 'Lato, "Helvetica Neue",Helvetica,Arial,sans-serif'
-  secondary: '"Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif'
+  primary: 'Lato, "Lato",Lato,Lato,sans-serif'
+  secondary: '"Lato", "Lato", Lato,Lato,sans-serif'
