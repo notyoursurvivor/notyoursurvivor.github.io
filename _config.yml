@@ -13,22 +13,20 @@ people:
   pic: 1
   position: Founder, Creative Director
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: LinkedIn
+      url: # https://www.linkedin.com/in/arrobertson/
+    - title: GitHub
+      url: # https://github.com/codesrobertson
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: YouTube
-    url: 
-  - title: Instagram
-    url:
+    url: https://www.youtube.com/channel/UCtHrJew8Qo7ePr3H6YR8aGw
+#  - title: Instagram
+#    url: https://www.instagram.com/not_your_survivor/
   - title: SoundCloud
-    url: 
+    url: https://soundcloud.com/user-900539222
 
 
 # Postal address (add as many lines as necessary)
