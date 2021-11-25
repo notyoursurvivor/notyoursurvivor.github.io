@@ -7,6 +7,6 @@ date: 2014-07-17
 img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt
-description: Our Instagram focuses on mental health dynamics and social health aspects of FSA.
+description: Our Instagram focuses on mental health dynamics and social aspects of FSA.
 
 ---
