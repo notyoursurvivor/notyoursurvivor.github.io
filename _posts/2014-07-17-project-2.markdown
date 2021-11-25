@@ -1,6 +1,6 @@
 ---
 title: Instagram
-subtitle: Visual exploration of internal and external FSA dynamics. 
+subtitle: Visual exploration of internal and external FSA dynamics 
 layout: default
 modal-id: 2
 date: 2014-07-17
