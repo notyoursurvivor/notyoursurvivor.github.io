@@ -1,5 +1,5 @@
 ---
-title: SoundCloud
+title: Spotify and SoundCloud
 subtitle: Accessible audible therapy
 layout: default
 modal-id: 3
@@ -7,6 +7,6 @@ date: 2014-07-16
 img: spotify.jpg
 thumbnail: spotify.jpg
 alt: image-alt
-description: Our SoundCloud curates multiple kinds of free, easily accessible audible therapy.
+description: Our Spotify and SoundCloud accounts curate multiple kinds of free, easily accessible audible therapy.
 
 ---

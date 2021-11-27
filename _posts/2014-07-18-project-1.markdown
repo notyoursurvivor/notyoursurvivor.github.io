@@ -1,6 +1,6 @@
 ---
 title: YouTube
-subtitle: FSA Recovery and Allyship
+subtitle: Flagship recovery and allyship
 layout: default
 modal-id: 1
 <!-- date: 2014-07-18 -->
