@@ -4,8 +4,8 @@ subtitle: Internal and external FSA dynamics
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: Instagram.jpg
+thumbnail: Instagram.jpg
 alt: image-alt
 description: Our Instagram focuses on mental health dynamics and social aspects of FSA.
 

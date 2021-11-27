@@ -4,8 +4,8 @@ subtitle: FSA Recovery and Allyship
 layout: default
 modal-id: 1
 <!-- date: 2014-07-18 -->
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: YouTube.jpg
+thumbnail: YouTube.jpg
 alt: image-alt
 description: Our YouTube thoughtfully explores FSA recovery, societal context, and community allyship.
 link: https://www.youtube.com/channel/UCsp_z4KR3dOczXw7Q-SPqQg
