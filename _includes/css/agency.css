@@ -865,3 +865,19 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
+
+equity {
+    display: inline-block;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+    left: 0;
+    width: 100%;
+    text-align: center;
+
+    color: #000000;
+
+    background-image: url('{{ site.baseurl }}/img/noun_equity_white.jpg');
+    height: auto;
+    background-size: cover;
+}
