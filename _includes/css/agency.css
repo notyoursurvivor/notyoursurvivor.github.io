@@ -884,5 +884,8 @@ body {
 
 .button-icon {
    position: absolute;
-   left: 0;
+   left: 10%;
+   top: 10%;
+   width: 80%;
+   height: auto;
 }
