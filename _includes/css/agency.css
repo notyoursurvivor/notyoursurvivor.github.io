@@ -678,10 +678,12 @@ section#contact .form-group textarea {
 
 section#contact .form-group input.form-control {
     height: auto;
+    color: #0d0e0c;
 }
 
 section#contact .form-group textarea.form-control {
     height: 236px;
+    color: #0d0e0c;
 }
 
 section#contact .form-control:focus {
