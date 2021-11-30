@@ -9,6 +9,6 @@ thumbnail: spotify.jpg
 alt: image-alt
 description: Our Spotify and SoundCloud accounts curate multiple kinds of free, easily accessible audible therapy.
 link: https://open.spotify.com/user/nu0ywdqiq561p49sas97rqmmw?si=d00efd0969c949f5 
-link: https://soundcloud.com/user-900539222 
+link2: https://soundcloud.com/user-900539222 
 status: Pre-Production
 ---
