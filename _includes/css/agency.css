@@ -85,7 +85,7 @@ h6 {
 .open .dropdown-toggle.btn-primary {
     border-color: #{{ site.data.template.color.primary }};
     color: #fff;
-    background-color: #{{ site.data.template.color.secondary }};
+    background-color: #{{ site.data.template.color.secondary-dark }};
 }
 
 .btn-primary:active,
@@ -137,7 +137,7 @@ fieldset[disabled] .btn-primary.active {
 .open .dropdown-toggle.btn-xl {
     border-color: #{{ site.data.template.color.primary }};
     color: #fff;
-    background-color: #{{ site.data.template.color.secondary }};
+    background-color: #{{ site.data.template.color.secondary-dark }};
 }
 
 .btn-xl:active,
@@ -754,7 +754,7 @@ ul.social-buttons li a {
     line-height: 40px;
     outline: 0;
     color: #fff;
-    background-color: #222;
+    background-color: #e12322;
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
     transition: all .3s;
@@ -866,18 +866,21 @@ body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
 
-equity {
+.equity {
     display: inline-block;
-    -webkit-font-smoothing: antialiased;
+    -webk1it-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 
-    left: 0;
     width: 100%;
     text-align: center;
 
     color: #000000;
 
-    background-image: url('{{ site.baseurl }}/img/noun_equity_white.jpg');
     height: auto;
     background-size: cover;
+}
+
+.button-icon {
+   position: absolute;
+   left: 0;
 }

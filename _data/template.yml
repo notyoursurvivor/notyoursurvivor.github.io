@@ -1,9 +1,10 @@
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: e12322
-  secondary: fefff2  
-  secondary-dark: 0d0e0c
-  muted: 0d0e0c
+  primary: e12322 #NYS Red
+  secondary: fefff2  #NYS Beige
+  secondary-dark: 0d0e0c #NYS Black
+  muted: 0d0e0c #NYS Black
+  hover: 120e07 #Header Painting Black
 
 # Font Families
 font:

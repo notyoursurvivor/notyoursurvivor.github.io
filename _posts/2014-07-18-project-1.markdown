@@ -8,6 +8,6 @@ img: youtube.jpg
 thumbnail: youtube.jpg
 alt: image-alt
 description: Our YouTube thoughtfully explores FSA recovery, societal context, and community allyship.
-link: https://www.youtube.com/channel/UCsp_z4KR3dOczXw7Q-SPqQg
+link: https://www.youtube.com/channel/UCtHrJew8Qo7ePr3H6YR8aGw
 status: Pre-Production
 ---

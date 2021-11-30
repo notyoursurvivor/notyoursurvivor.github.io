@@ -13,24 +13,25 @@ people:
   pic: 1
   position: Founder, Creative Director
   social:
-    - title: LinkedIn
-      url: # https://www.linkedin.com/in/arrobertson/
-    - title: GitHub
-      url: # https://github.com/codesrobertson
+    - title: linkedin
+      url:  https://www.linkedin.com/in/arrobertson/
+    - title: github
+      url:  https://github.com/codesrobertson
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: YouTube
-    url: https://www.youtube.com/channel/UCtHrJew8Qo7ePr3H6YR8aGw
-  - title: Instagram
-    url: https://www.instagram.com/not_your_survivor/
-  - title: SoundCloud
-    url: https://soundcloud.com/user-900539222
-  - title: Spotify
-    url: https://open.spotify.com/user/nu0ywdqiq561p49sas97rqmmw?si=bb03026d405c47e3
-  - title: LinkedIn
+  - title: linkedin
     url: https://www.linkedin.com/company/not-your-survivor
+  - title: youtube
+    url: https://www.youtube.com/channel/UCtHrJew8Qo7ePr3H6YR8aGw
+  - title: instagram
+    url: https://www.instagram.com/not_your_survivor/
+  - title: soundcloud
+    url: https://soundcloud.com/user-900539222
+  - title: spotify
+    url: https://open.spotify.com/user/nu0ywdqiq561p49sas97rqmmw?si=bb03026d405c47e3
+
 
 
 # Postal address (add as many lines as necessary)
