@@ -18,7 +18,10 @@ $(function() {
             }
             $.ajax({
                 url: "https://formspree.io/f/xbjwjrnz",
-                type: "POST",
+                method: "POST",
+                headers: {
+                    'Accept': 'application/json'
+                },
                 data: {
                     name: name,
                     email: email,
