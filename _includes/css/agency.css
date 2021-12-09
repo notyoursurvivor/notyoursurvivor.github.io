@@ -66,7 +66,7 @@ h6 {
 }
 
 .bg-darkest-gray {
-    background-color: #222;
+    background-color: #120e07;
 }
 
 .btn-primary {
@@ -82,7 +82,7 @@ h6 {
 .btn-primary:active,
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
-    color: #fff;
+    color: #fefff2;
     background-color: #{{ site.data.template.color.secondary-dark }};
 }
 
@@ -131,7 +131,7 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl:active,
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
-    color: #fff;
+    color: #fefff2;
     background-color: #{{ site.data.template.color.secondary-dark }};
 }
 
@@ -166,12 +166,12 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #222;
+    background-color: #120e07;
 }
 
 .navbar-default .navbar-brand {
     font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
-    color: #{{ site.data.template.color.primary }};
+    color: #{{ site.data.template.color.secondary }};
 }
 
 .navbar-default .navbar-brand:hover,
@@ -182,7 +182,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-collapse {
-    border-color: rgba(255,255,255,.02);
+    border-color: #120e07;
 }
 
 .navbar-default .navbar-toggle {
@@ -191,7 +191,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-    background-color: #fff;
+    background-color: #fefff2;
 }
 
 .navbar-default .navbar-toggle:hover,
@@ -218,13 +218,13 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
-    color: #fff;
+    color: #fefff2;
     background-color: #{{ site.data.template.color.primary }};
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
-    color: #fff;
+    color: #fefff2;
     background-color: #{{ site.data.template.color.secondary }};
 }
 
@@ -251,7 +251,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #222;
+        background-color: #120e07;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -261,7 +261,7 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #fff;
+    color: #fefff2;
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/img/header-1.jpg');
     background-position: center center;
@@ -294,6 +294,20 @@ header .intro-text .intro-heading {
     line-height: 50px;
 }
 
+.simple-highlight{
+ background-color:#120e07;
+ padding:20px;
+ margin: 50px;
+ display: inline-block;
+ border-radius: 3px;
+}
+
+.simple-brand-highlight{
+ background-color:#fefff2;
+ display: inline-block;
+ border-radius: 3px;
+}
+
 @media(min-width:768px) {
     header .intro-text {
         padding-top: 300px;
@@ -301,7 +315,7 @@ header .intro-text .intro-heading {
     }
 
     header .intro-text .intro-lead-in {
-        margin-bottom: 25px;
+        margin-bottom: 0px;
         font-family: {{ site.data.template.font.secondary }};
         font-size: 40px;
         font-style: normal;
@@ -384,7 +398,7 @@ section h3.section-subheading {
     margin-top: -12px;
     text-align: center;
     font-size: 20px;
-    color: #fff;
+    color: #fefff2;
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
@@ -401,7 +415,7 @@ section h3.section-subheading {
     padding: 25px;
     max-width: 400px;
     text-align: center;
-    background-color: #fff;
+    background-color: #fefff2;
 }
 
 #portfolio .portfolio-item .portfolio-caption h4 {
@@ -440,7 +454,7 @@ section h3.section-subheading {
     left: 40px;
     width: 2px;
     margin-left: -1.5px;
-    background-color: #f1f1f1;
+    background-color: #fefff2;
 }
 
 .timeline>li {
@@ -491,7 +505,7 @@ section h3.section-subheading {
     border: 7px solid #f1f1f1;
     border-radius: 100%;
     text-align: center;
-    color: #fff;
+    color: #fefff2;
     background-color: #{{ site.data.template.color.primary }};
 }
 
@@ -633,7 +647,7 @@ section h3.section-subheading {
 
 .team-member img {
     margin: 0 auto;
-    border: 7px solid #fff;
+    border: 7px solid #fefff2;
 }
 
 .team-member h4 {
@@ -651,14 +665,14 @@ aside.clients img {
 }
 
 section#contact {
-    background-color: #222;
+    background-color: #120e07;
     background-image: url('{{ site.baseurl }}/img/Contact-1.jpg');
     background-position: center;
     background-repeat: no-repeat;
 }
 
 section#contact .section-heading {
-    color: #fff;
+    color: #fefff2;
 }
 
 section#contact .form-group {
@@ -677,7 +691,7 @@ section#contact .form-group input.form-control {
 
 section#contact .form-group textarea.form-control {
     height: 236px;
-    color: #0d0e0c;
+    color: #120e07;
 }
 
 section#contact .form-control:focus {
@@ -749,7 +763,7 @@ ul.social-buttons li a {
     font-size: 20px;
     line-height: 40px;
     outline: 0;
-    color: #fff;
+    color: #fefff2;
     background-color: #e12322;
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
@@ -834,7 +848,7 @@ ul.social-buttons li a:active {
     z-index: 1052;
     width: 1px;
     height: 75px;
-    background-color: #222;
+    background-color: #120e07;
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
@@ -870,7 +884,7 @@ body {
     width: 100%;
     text-align: center;
 
-    color: #000000;
+    color:#120e07;
 
     height: auto;
     background-size: cover;
