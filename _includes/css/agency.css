@@ -454,7 +454,7 @@ section h3.section-subheading {
     left: 40px;
     width: 2px;
     margin-left: -1.5px;
-    background-color: #fefff2;
+    background-color: #120e07;
 }
 
 .timeline>li {
@@ -551,6 +551,7 @@ section h3.section-subheading {
 .timeline .timeline-body>p,
 .timeline .timeline-body>ul {
     margin-bottom: 0;
+    font-size: 15px;
 }
 
 @media(min-width:768px) {
