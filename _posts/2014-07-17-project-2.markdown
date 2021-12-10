@@ -9,5 +9,5 @@ thumbnail: instagram.jpg
 alt: image-alt
 description: Our Instagram focuses on mental health dynamics and social aspects of FSA.
 link: https://www.instagram.com/not_your_survivor/
-status: Pre-Production
+status: Planning
 ---
