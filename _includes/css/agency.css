@@ -202,9 +202,9 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
+    color: #{{ site.data.template.color.secondary }};
     font-weight: 400;
     letter-spacing: 1px;
-    color: #fff;
     -webkit-transition: all ease .35s;
     -moz-transition: all ease .35s;
     transition: all ease .35s;
